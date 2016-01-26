@@ -4,10 +4,17 @@ A starting point with Jekyll and Zurb Foundation 6 for quick prototyping.
 
 ## Getting started
 
-Make sure [Jekyll] is installed to use this repo.
+Install [Jenkins].
 
-Clone the repo and run the following command:
-`jekyll serve -I -w --baseurl ''`
+Install [Ruby] then [Bundler] `gem install bundler`.
+
+Make sure [Jekyll] is installed (`gem install jekyll`) to use this repo.
+
+Clone the repo and run the following commands:
+```
+bundle install
+jekyll serve -I -w --baseurl ''
+```
 
 Bash will tell you the local server address to preview, e.g. `http://127.0.0.1:4000`
 
@@ -34,10 +41,12 @@ For prototyping the following technology is used to build and host:
 * HTML
 * CSS
 * JavaScript
+* [Jenkins]
 * [Jekyll]
 * [YAML]
 * [Liquid Template][liquid]
 * [GitHub Pages][gh-pages]
+* [CloudForge]
 
 ### To do
 
@@ -49,7 +58,11 @@ For prototyping the following technology is used to build and host:
 * Keep tech stack updated for ICT
 
 
+[jenkins]: <https://jenkins-ci.org/>
+[ruby]: <https://www.ruby-lang.org/>
+[bundler]: <http://bundler.io/>
 [jekyll]: <http://jekyllrb.com/docs/installation/>
 [yaml]: <http://www.yaml.org/>
 [liquid]: <http://liquidmarkup.org/>
 [gh-pages]: <https://pages.github.com/>
+[cloudforge]: <http://www.cloudforge.com/>
