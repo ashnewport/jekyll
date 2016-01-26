@@ -17,16 +17,18 @@ Note that the GitHub Pages URL will be the username of the account, followed by 
 
 If updating with changes from master then do the following:
 
-    * `git checkout gh-pages`
-    * `git rebase master`
-    * `git push -u origin gh-pages`
+```
+git checkout gh-pages
+git rebase master
+git push -u origin gh-pages
+```
 
 You can now preview on GitHub Pages, e.g. `ashnewport.github.io/jekyll`
 
 ### To do
 
-    * Clean up some of the starting files to remove junk
-    * Add normalize.scss
-    * Add font awesome
-    * Update config.yml
-    * Create a more relevant default page and post
+* Clean up some of the starting files to remove junk
+* Add normalize.scss
+* Add font awesome
+* Update config.yml
+* Create a more relevant default page and post
