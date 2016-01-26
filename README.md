@@ -27,6 +27,18 @@ git push -u origin gh-pages
 
 You can now preview on GitHub Pages, e.g. `ashnewport.github.io/jekyll`
 
+## Technology stack
+
+For prototyping the following technology is used to build and host:
+
+* HTML
+* CSS
+* JavaScript
+* [Jekyll]
+* [YAML]
+* [Liquid Template][liquid]
+* [GitHub Pages][gh-pages]
+
 ### To do
 
 * Clean up some of the starting files to remove junk
@@ -34,6 +46,10 @@ You can now preview on GitHub Pages, e.g. `ashnewport.github.io/jekyll`
 * Add font awesome
 * Update config.yml
 * Create a more relevant default page and post
+* Keep tech stack updated for ICT
 
 
 [jekyll]: <http://jekyllrb.com/docs/installation/>
+[yaml]: <http://www.yaml.org/>
+[liquid]: <http://liquidmarkup.org/>
+[gh-pages]: <https://pages.github.com/>
