@@ -4,6 +4,8 @@ A starting point with Jekyll and Zurb Foundation 6 for quick prototyping.
 
 ## Getting started
 
+Make sure [Jekyll] is installed to use this repo.
+
 Clone the repo and run the following command:
 `jekyll serve -I -w --baseurl ''`
 
@@ -32,3 +34,6 @@ You can now preview on GitHub Pages, e.g. `ashnewport.github.io/jekyll`
 * Add font awesome
 * Update config.yml
 * Create a more relevant default page and post
+
+
+[jekyll]: <http://jekyllrb.com/docs/installation/>
