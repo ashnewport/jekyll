@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Exit immediately if any commands return non-zero
+set -e
+# Output the commands we run
+set -x
+
+# Rename to project
+cf push simplifying-imports-alpha -i 1 -m 256MB
