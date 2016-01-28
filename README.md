@@ -54,7 +54,7 @@ For prototyping the following technology is used to build and host:
 * Add normalize.scss
 * Add font awesome
 * Update config.yml
-* Create a more relevant default page and post
+* ~~Create a more relevant default page and post~~
 * Keep tech stack updated for ICT
 
 
