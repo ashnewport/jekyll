@@ -6,13 +6,12 @@ A starting point with Jekyll and Zurb Foundation 6 for quick prototyping.
 
 Install [Jenkins].
 
-Install [Ruby] then [Bundler] `gem install bundler`.
+Install [Ruby].
 
 Make sure [Jekyll] is installed (`gem install jekyll`) to use this repo.
 
 Clone the repo and run the following commands:
 ```
-bundle install
 jekyll serve -I -w --baseurl ''
 ```
 
